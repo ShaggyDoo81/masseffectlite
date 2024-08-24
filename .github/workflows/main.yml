@@ -101,7 +101,7 @@ jobs:
 
           # The document subtitle.
           # Default: ''
-          Subtitle: DESIGN DOCUMENT
+          Subtitle: 'Una adaptación de Mass Effect para Cortex Lite'
 
           # The template name. Must be: designdoc.
           # Default: designdoc
