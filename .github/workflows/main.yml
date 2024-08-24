@@ -38,7 +38,7 @@ jobs:
 
           # The repository folder where the order file exist.
           # Default: docs
-          Folder: docs/design
+          Folder: docs/mel
 
           # Maximum entries to get from Git Log for version history.
           # Default: 15
