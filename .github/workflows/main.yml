@@ -89,7 +89,7 @@ jobs:
 
           # The project ID or name.
           # Default: ''
-          Project: 12345678
+          Project: 'Mass Effect Lite'
 
           # Skip using git commit history.
           #
