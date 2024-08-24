@@ -33,4 +33,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           FOLDER: dist/Web/wwwroot
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUBPAGES }}
+          repository-name: 'ShaggyDoo81/shaggydoo81.github.io'
